@@ -1,5 +1,4 @@
-![Portada de Github](https://user-images.githubusercontent.com/68879693/171054738-30de4f3d-0c86-43ef-b2e3-de804b2a55cb.png)
-
+![Banner de LinkedIn](https://user-images.githubusercontent.com/68879693/171054994-d3ce92e5-4388-4ec4-aa90-a1372456120c.png)
 
 - 👋 Hi, I’m @JuanPabloNSZ
 - 👀 I’m interested in listening and playing music
